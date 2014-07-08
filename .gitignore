@@ -18,7 +18,7 @@
 # Executables
 *.exe
 *.out
-*.app
+#*.app
 
 # Project oriented
 FullereneViewer.lnk

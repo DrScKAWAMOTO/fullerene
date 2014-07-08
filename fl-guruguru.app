@@ -1,0 +1,1 @@
+../src/FullereneViewer/src/Qt/build/Debug/fl-guruguru.app
